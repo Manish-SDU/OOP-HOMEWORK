@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manis\\OneDrive\\Desktop\\SDU\\2_SEMESTER\\OOP II\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj": {}
+    "C:\\Users\\manis\\Desktop\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manis\\OneDrive\\Desktop\\SDU\\2_SEMESTER\\OOP II\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj": {
+    "C:\\Users\\manis\\Desktop\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manis\\OneDrive\\Desktop\\SDU\\2_SEMESTER\\OOP II\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj",
+        "projectUniqueName": "C:\\Users\\manis\\Desktop\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj",
         "projectName": "ImageEditorApp",
-        "projectPath": "C:\\Users\\manis\\OneDrive\\Desktop\\SDU\\2_SEMESTER\\OOP II\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj",
+        "projectPath": "C:\\Users\\manis\\Desktop\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj",
         "packagesPath": "C:\\Users\\manis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manis\\OneDrive\\Desktop\\SDU\\2_SEMESTER\\OOP II\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\obj\\",
+        "outputPath": "C:\\Users\\manis\\Desktop\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manis\\AppData\\Roaming\\NuGet\\NuGet.Config"

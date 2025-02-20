@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JR8hfw0spgU=",
+  "dgSpecHash": "sINoREogzuE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\manis\\OneDrive\\Desktop\\SDU\\2_SEMESTER\\OOP II\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj",
+  "projectFilePath": "C:\\Users\\manis\\Desktop\\OOP-HOMEWORK\\HW_1\\ImageEditorApp\\ImageEditorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manis\\.nuget\\packages\\avalonia\\11.2.1\\avalonia.11.2.1.nupkg.sha512",
     "C:\\Users\\manis\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
